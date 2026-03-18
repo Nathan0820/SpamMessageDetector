@@ -1,1 +1,1 @@
-# spamMessageDetector
+# SpamMessageDetector
